@@ -10,7 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <p class="publication-note">
-  My name is highlighted in the author lists. <strong>C</strong> = conference, <strong>W</strong> = workshop, and <strong>U</strong> = under review.
+  My name is underlined in the author lists. <strong>*</strong> denotes joint first authorship. <strong>C</strong> = conference, <strong>W</strong> = workshop, <strong>U</strong> = under review.
 </p>
 
 <!-- Bibsearch Feature -->
