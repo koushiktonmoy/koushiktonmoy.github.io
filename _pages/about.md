@@ -33,7 +33,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-Hi! I am an undergraduate AI researcher interested in understanding when language and vision-language models genuinely reason, and when they rely on shortcuts, superficial correlations, or memorized patterns. My work focuses on rigorous evaluation for reasoning, cultural understanding, and multimodal intelligence, with particular interests in vision-language reasoning, large language model evaluation, Bengali NLP, and trustworthy AI.
+Hi! I am an undergraduate AI researcher focusing on building rigorous evaluations for reasoning, cultural understanding, and multimodal intelligence, with interests in vision–language reasoning, LLM evaluation, Bengali NLP, and trustworthy AI.
 
 **Vision-Language and Geo-Temporal Reasoning.** I study how vision-language models understand spatial, temporal, and geographic information. I contributed to **TimeSpot**, a benchmark for geo-temporal understanding in vision-language models, accepted at **ICML 2026**. I am also involved in a review of geospatial and geo-temporal reasoning in vision-language and large language models, currently under review at **ACL Rolling Review**.
 
