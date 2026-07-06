@@ -7,8 +7,7 @@ first_name: Koushik
 middle_name: Ahamed
 last_name: Tonmoy
 contact_note: >
-  contact_note: >
-  I am always open to collaboration and discussion & the best way to reach me is via email.
+  I am always open to collaboration and discussion. The best way to reach me is via email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal academic portfolio website of Koushik Ahamed Tonmoy.
 footer_text: >
@@ -701,4 +700,6 @@ jsonresume:
   - languages
   - interests
   - references
+
+
 
