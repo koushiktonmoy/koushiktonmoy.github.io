@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-04-17 00:49:00+0600
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+BengaliMoralBench has been accepted to ACM FAccT 2026.
