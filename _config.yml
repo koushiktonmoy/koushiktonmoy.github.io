@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Koushik Ahamed Tonmoy # the website title (if blank, full name will be used instead)
-first_name: <b>Koushik</b>
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Koushik
 middle_name: Ahamed
 last_name: Tonmoy
 contact_note: >
