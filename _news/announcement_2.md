@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-TimeSpot has been accepted as a regular paper at ICML 2026.
+**TimeSpot** has been accepted as a regular paper at **ICML 2026**.

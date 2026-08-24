@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-BengaliMoralBench has been accepted to ACM FAccT 2026.
+**BengaliMoralBench** has been accepted to **ACM FAccT 2026**.
