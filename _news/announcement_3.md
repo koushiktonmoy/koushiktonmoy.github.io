@@ -8,4 +8,4 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted to the Muslims in ML Workshop (MusiML) at ICML 2026.
+One paper has been accepted to the Muslims in ML Workshop (MusiML) at ICML 2026!

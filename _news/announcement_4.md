@@ -7,4 +7,4 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted to the AI for Math Workshop (AI4Math) at ICML 2026.
+One paper has been accepted to the AI for Math Workshop (AI4Math) at ICML 2026!
