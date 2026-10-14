@@ -9,6 +9,54 @@ nav_order: 5
 
 <h2 class="mb-4">Research Experience</h2>
 
+
+<div class="mb-5">
+  <div class="d-flex justify-content-between align-items-start gap-3">
+    <strong>Research Collaborator</strong>
+    <strong class="text-end text-nowrap">Remote</strong>
+  </div>
+
+  <div class="d-flex justify-content-between align-items-start gap-3">
+    <em>Culturally Grounded AI and Moral Reasoning</em>
+    <em class="text-end text-nowrap">January 2025 - Present</em>
+  </div>
+
+  <p class="mt-2">
+    Collaborating with
+    <a href="https://scholar.google.com/citations?user=cUkDvwQAAAAJ"
+       target="_blank"
+       rel="noopener noreferrer">Dr. Dong-Kyu Chae,</a>
+    <strong>Associate Professor</strong>, <strong>Hanyang University</strong>
+    and a multi-institutional research team on culturally grounded evaluation of moral reasoning and ethical alignment in large language models.
+  </p>
+
+  <ul>
+    <li>
+      Co-authored <strong><em>BengaliMoralBench: A Benchmark for Auditing Moral Reasoning in Large Language Models within Bengali Language and Culture</em></strong>, published at the <strong>ACM Conference on Fairness, Accountability, and Transparency (FAccT 2026)</strong>.
+    </li>
+
+    <li>
+      Contributed to the development and evaluation of <strong>BengaliMoralBench</strong>, a culturally grounded benchmark comprising 3,000 Bengali moral scenarios across five sociocultural domains, 50 subtopics, and three ethical frameworks: Virtue, Commonsense, and Justice.
+    </li>
+
+    <li>
+      Contributed to systematic evaluation and analysis of open-weight and closed-source LLMs, examining cultural grounding, ethical reasoning, prompt-language effects, model-scale behavior, and failure patterns across culturally nuanced scenarios.
+    </li>
+  </ul>
+  
+</div>
+
+
+<hr
+  style="
+    border: 0;
+    border-top: 1px solid var(--global-divider-color);
+    opacity: 0.6;
+    margin: 2rem 0;
+  "
+>
+
+
 <div class="mb-5">
   <div class="d-flex justify-content-between align-items-start gap-3">
     <strong>Research Collaborator</strong>
