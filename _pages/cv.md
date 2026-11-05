@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-cv_pdf: https://drive.google.com/file/d/1mUuuSWwzqtMHJaN_AqxqWQhZFPbF2KPF/view?usp=sharing
+cv_pdf: https://drive.google.com/file/d/1HRZYuBzIbOg0Y46QQCo7ii65ut2Xkb71/view?usp=sharing
 cv_format: rendercv
 description: Full CV is available through Google Drive. Access can be provided upon request.
 toc:

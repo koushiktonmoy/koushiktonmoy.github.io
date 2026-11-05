@@ -118,19 +118,69 @@ nav_order: 5
   </ul>
 </div>
 
+
+
+
 <hr style="border: 0; border-top: 1px solid var(--global-divider-color); opacity: 0.6; margin: 2rem 0;">
+
+
+
+
 
 <h2 class="mt-5 mb-4">Teaching Experience</h2>
 
 <div class="mb-5">
   <div class="d-flex justify-content-between align-items-start gap-2 flex-wrap">
-    <strong>Marker, Department of English and Modern Languages (DEML)</strong>
-    <strong class="text-end text-nowrap">North South University</strong>
+    <strong>Teaching Assistant</strong>
+    <strong class="text-end text-nowrap">
+      <a href="https://www.northsouth.edu/" target="_blank" rel="noopener noreferrer">North South University</a>
+    </strong>
   </div>
 
   <div class="d-flex justify-content-between align-items-start gap-2 flex-wrap">
+    <strong>
+      <a href="https://www.northsouth.edu/academic/shss/lml.html" target="_blank" rel="noopener noreferrer" style="color: inherit;" onmouseover="this.style.color='var(--global-theme-color)'" onmouseout="this.style.color='inherit'">Department of English and Modern Languages (DEML)</a>
+    </strong>
+    <!-- <em>Courses: LBA 104 Introduction to Dramatics, ENG 111 Public Speaking</em> -->
+    <em class="text-end text-nowrap">October 2026 - Present</em>
+  </div>
+
+  <ul class="mt-2">
+    <li>
+      Assisted faculty with student advising, research activities, lecture preparation, and course support.
+    </li>
+    <li>
+      Provided tutorial sessions and communicated academic updates and announcements to students.
+    </li>
+    <li>
+      Checked examination scripts, prepared grade sheets, and proctored examinations.
+    </li>
+  </ul>
+</div>
+
+
+
+
+
+<div class="mb-5">
+  <div class="d-flex justify-content-between align-items-start gap-2 flex-wrap">
+    <strong>Marker</strong>
+    <!-- <strong class="text-end text-nowrap">North South University</strong> -->
+    <strong class="text-end text-nowrap">
+      <a href="https://www.northsouth.edu/" target="_blank" rel="noopener noreferrer">North South University</a>
+    </strong>
+  </div>
+
+  <div class="d-flex justify-content-between align-items-start gap-2 flex-wrap">
+
+    <strong>
+      <a href="https://www.northsouth.edu/academic/shss/lml.html" target="_blank" rel="noopener noreferrer" style="color: inherit;" onmouseover="this.style.color='var(--global-theme-color)'" onmouseout="this.style.color='inherit'">Department of English and Modern Languages (DEML)</a>
+    </strong>
+
+    <em class="text-end text-nowrap">October 2025 - September 2026</em>
+
     <em>Courses: LBA 104 Introduction to Dramatics, ENG 111 Public Speaking</em>
-    <em class="text-end text-nowrap">October 2025 - Present</em>
+
   </div>
 
   <ul class="mt-2">
