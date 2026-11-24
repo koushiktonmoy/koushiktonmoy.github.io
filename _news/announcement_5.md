@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The Qatar Computing Research Institute (QCRI) highlighted our collaboration and ICML 2026 paper, [*TimeSpot*](https://timespot-gt.github.io/), in a [LinkedIn feature](https://www.linkedin.com/posts/qatar-computing-research-institute_timespot-benchmarking-geo-temporal-understanding-activity-7478394162904752129-Tsf_).
+**The Qatar Computing Research Institute (QCRI)** highlighted our collaboration and ICML 2026 paper, [**TimeSpot**](https://timespot-gt.github.io/), in a [LinkedIn feature](https://www.linkedin.com/posts/qatar-computing-research-institute_timespot-benchmarking-geo-temporal-understanding-activity-7478394162904752129-Tsf_).
