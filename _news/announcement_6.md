@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper, *From Language Specifications to Executable Turing Machines: Evaluating LLMs as Computational Machine Designers*, has been accepted to **Findings of EMNLP 2026**!
+Our paper, _From Language Specifications to Executable Turing Machines: Evaluating LLMs as Computational Machine Designers_, has been accepted to **Findings of EMNLP 2026**!

@@ -19,7 +19,6 @@ nav_order: 4
   </div>
 
   <!-- <div><strong>Selected Coursework:</strong> Theory of Computation, Artificial Intelligence, <br> Machine Learning, Natural Language Processing</div> -->
-  
 
   <!-- <div class="mt-2">
     <strong>Specialization Courses:</strong>
@@ -35,7 +34,6 @@ nav_order: 4
     <strong>Specialization Courses:</strong>
       <div>Theory of Computation, Artificial Intelligence, Machine Learning, Natural Language Processing</div>
   </div>
-  
 
   <!-- <div><strong>Current CGPA:</strong> 3.36/4.00</div> -->
   <!-- <div><strong>Credit Passed:</strong> 130.00</div> -->

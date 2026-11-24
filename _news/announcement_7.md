@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our review paper, *Geo-spatial and Geo-temporal Reasoning in Vision-Language and Large Language Models: A Review*, has been accepted to the **Main** conference at **AACL-IJCNLP 2026**!
+Our review paper, _Geo-spatial and Geo-temporal Reasoning in Vision-Language and Large Language Models: A Review_, has been accepted to the **Main** conference at **AACL-IJCNLP 2026**!
