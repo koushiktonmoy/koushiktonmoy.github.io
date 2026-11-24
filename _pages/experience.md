@@ -118,14 +118,7 @@ nav_order: 5
   </ul>
 </div>
 
-
-
-
 <hr style="border: 0; border-top: 1px solid var(--global-divider-color); opacity: 0.6; margin: 2rem 0;">
-
-
-
-
 
 <h2 class="mt-5 mb-4">Teaching Experience</h2>
 
@@ -157,10 +150,6 @@ nav_order: 5
     </li>
   </ul>
 </div>
-
-
-
-
 
 <div class="mb-5">
   <div class="d-flex justify-content-between align-items-start gap-2 flex-wrap">

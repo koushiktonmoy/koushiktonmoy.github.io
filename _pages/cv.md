@@ -11,8 +11,6 @@ toc:
   sidebar: left
 ---
 
-
-
 <!-- ---
 layout: cv
 permalink: /cv/
