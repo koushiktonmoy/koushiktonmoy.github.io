@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-**<em>TimeSpot</em>** has been accepted as a regular paper at **ICML 2026**!
+[**<em>TimeSpot</em>**](https://timespot-gt.github.io/) has been accepted as a regular paper at **ICML 2026**!
